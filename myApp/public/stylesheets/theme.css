@@ -1,0 +1,11 @@
+:root {
+    /* Primary Colors */
+    --purple-main: #667eea;
+    --purple-dark: #764ba2;
+    --pink-bright: #f093fb;
+    --pink-deep: #f5576c;
+  
+    /* Off-canvas Background */
+    --off-canvas-bg: rgba(30, 30, 50, 0.98);
+  }
+  
